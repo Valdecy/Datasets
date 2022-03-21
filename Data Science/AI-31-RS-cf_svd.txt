@@ -1,0 +1,13 @@
+Dataset	User-01	User-02	User-03	User-04	User-05
+Toy Story (1995)	2	3	3	4	5
+The Lion King (1994)	4	2	2	4	5
+Aladdin (1992)	0.5	3	2		5
+An American Tail (1986)		1		4	4
+Ghost in the Shell (1995)		5		2.5	4.5
+Blade Runner (1982)	5	4	5	2.5	4.5
+The Abyss (1989)	4	5	5	1.5	4
+Aliens (1986)	4	4	5	1.5	5
+Star Trek II - The Wrath of Khan (1982)		4	4.5	2.5	4
+The Matrix (1999)	5		4.5	4.5	4.5
+RoboCop (1987)	4.5		5	3.5	4
+A.I. -  Artificial Intelligence (2001)	4	3.5	4.5	1.5	2.5
