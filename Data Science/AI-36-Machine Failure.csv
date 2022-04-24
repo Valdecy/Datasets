@@ -1,4 +1,4 @@
-﻿UDI;Product ID;Type;Air temperature [K];Process temperature [K];Rotational speed [rpm];Torque [Nm];Tool wear [min];TWF;HDF;PWF;OSF;RNF;Machine failure;Machine Failures Types
+﻿UDI;Product ID;Type;Air temperature [K];Process temperature [K];Rotational speed [rpm];Torque [Nm];Tool wear [min];TWF;HDF;PWF;OSF;RNF;Machine failure;Machine failure type
 1;M14860;M;298.1;308.6;1551;42.8;0;0;0;0;0;0;0;no_failures
 2;L47181;L;298.2;308.7;1408;46.3;3;0;0;0;0;0;0;no_failures
 3;L47182;L;298.1;308.5;1498;49.4;5;0;0;0;0;0;0;no_failures
